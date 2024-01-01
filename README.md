@@ -18,36 +18,44 @@ In the era of advancing quantum computing, traditional encryption methods face p
 2. Methodology:
 
 	•	2.1 Tessellated Triangle Graph: Develop a dynamic graph of tessellated triangles, with user-defined sizes for each triangular element.
+
 	•	2.2 Nonperiodic “Hat” Tile Graph: Design a graph of fixed-size, nonperiodic “hat” tiles to overlay the triangular tessellation.
+
 	•	2.3 Overlay Process: Implement an algorithm for overlaying the “hat” tile graph onto the triangular tessellation, maintaining the integrity of the underlying pattern.
 
-3. Information Encoding:
+4. Information Encoding:
 
 	•	3.1 Binary Encoding: Develop a method to encode binary data using the combined pattern of tessellated triangles and “hat” tiles.
+
 	•	3.2 Error Correction and Security: Incorporate advanced error correction techniques and assess the system’s resilience against quantum computing attacks.
 
-4. Decoding Algorithm:
+5. Decoding Algorithm:
 
 	•	4.1 Development of Decoding Algorithm: Create a sophisticated algorithm capable of decoding the complex overlay pattern, adaptable to different sizes and configurations.
 
-5. Objectives and Expected Outcomes:
+6. Objectives and Expected Outcomes:
 
 	•	5.1 Enhanced Security: Demonstrate the system’s capability to resist quantum computing attacks.
+
 	•	5.2 Dynamic Encoding: Showcase the flexibility of the system in encoding varying amounts of data.
+
 	•	5.3 Practical Application: Develop a prototype demonstrating the system’s practicality in real-world applications.
 
-6. Budget and Timeline:
+7. Budget and Timeline:
 
 	•	6.1 Budget Overview: Detailed financial plan for research development, personnel, equipment, and dissemination.
+
 	•	6.2 Project Timeline: Outline of project phases, including development, testing, analysis, and final presentation.
 
-7. Future Work:
+8. Future Work:
 
 	•	7.1 Scalability and Efficiency: Explore the scalability of the system for large-scale applications and its efficiency in different operational environments.
+
 	•	7.2 Integration with Existing Systems: Investigate the integration of this encryption method with current digital communication systems.
 
-8. Acknowledgments:
+
+9. Acknowledgments:
 Gratitude is extended to the research team and advisors who have contributed to the conceptualization and development of this project.
 
-9. References:
+10. References:
 
